@@ -15,6 +15,11 @@ export const homemadeBadges: BadgeInfo[] = [
 	// 	authorDiscordId: "123456789012345678",
 	// },
 	{
+		displayName: "Token Of Appreciation",
+		fileName: "kittybukcet",
+		authorDiscordId: "1170249805373657093",
+	},
+	{
 		displayName: "Tough Tides",
 		fileName: "wave1234567_4",
 		authorDiscordId: "1170249805373657093",
